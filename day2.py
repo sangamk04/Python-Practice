@@ -1,5 +1,4 @@
 num = 12
-
 if num > 1:
   
     for i in range(2, int(num/2)+1):
