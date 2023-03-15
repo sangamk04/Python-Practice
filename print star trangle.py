@@ -14,8 +14,7 @@ def triangle(n):
            
             print("* ", end="")      
    
-        print("\r")
-  
+        print("\r")  
 
 n = 5
 triangle(n)
