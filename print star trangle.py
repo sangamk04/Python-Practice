@@ -1,5 +1,4 @@
-def triangle(n):
-      
+def triangle(n):      
    
     k = n - 1  
    
